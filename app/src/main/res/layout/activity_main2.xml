@@ -12,4 +12,6 @@
         android:textSize="30sp"
         android:text="서브 액티비티 도착"/>
 
+
+
 </LinearLayout>
